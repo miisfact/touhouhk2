@@ -1,0 +1,11 @@
+{
+"companyName": "miisfactory",
+"productName": "ホテル紅魔館改",
+"dataUrl": "thkk2web.data.unityweb",
+"asmCodeUrl": "thkk2web.asm.code.unityweb",
+"asmMemoryUrl": "thkk2web.asm.memory.unityweb",
+"asmFrameworkUrl": "thkk2web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
